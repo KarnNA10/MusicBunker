@@ -1,0 +1,14 @@
+.parent {
+display: grid;
+grid-template-columns: repeat(5, 1fr);
+grid-template-rows: 1fr;
+grid-column-gap: 0px;
+grid-row-gap: 0px;
+}
+
+.mainBG { grid-area: 1 / 1 / 2 / 6; }
+.band   { grid-area: 1 / 1 / 2 / 2; }
+.album  { grid-area: 1 / 2 / 2 / 3; }
+.year   { grid-area: 1 / 3 / 2 / 4; }
+.country { grid-area: 1 / 4 / 2 / 5; }
+.gen    { grid-area: 1 / 5 / 2 / 6; }
