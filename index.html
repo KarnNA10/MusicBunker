@@ -3,8 +3,39 @@
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
         <!-- <script type="text/javascript" src="jajascript/_1.js"></script> -->
         <link rel="icon" type="image/jpg" href="iconos/Icono_1.jpg"/>
-        <link rel="stylesheet" type="text/css" href="style.css" class="liiink"/>
+        <link rel="stylesheet" type="text/css" href="css/base.css" class="liiink"/>
         <title>The Music Bunker</title>
+
+        <style>
+            /* RESPONSIVE */
+@media (max-width: 1000px) {
+    body {
+        grid-template-columns: var(--sidebar-width) 1fr;
+        grid-template-areas:
+            "logo navbar"
+            "sidebar content";
+    }
+
+    .right {
+        display: none;
+    }
+}
+
+@media (max-width: 700px) {
+    body {
+        grid-template-columns: 1fr;
+        grid-template-rows: var(--top-height) auto 1fr;
+        grid-template-areas:
+            "logo"
+            "navbar"
+            "content";
+    }
+
+    .sidebar {
+        display: none;
+    }
+}
+        </style>
     </head> 
     <body>
 
@@ -41,13 +72,54 @@
     <div class="country">country</div>
     <div class="gen">gen</div>
 </div> 
- -->
 
-<div class="parent">
-    <div class="mainBG"></div>
-    <div class="band">band</div>
-    <div class="album">album</div>
-    <div class="year">year</div>
-    <div class="country">country</div>
-    <div class="gen">gen</div>
-</div> 
+[band,album,year,country,genre(s),bg_color,txt_color,linkArchive,linkYT],
+ -->
+<body>
+
+<div class="logo">LOGO</div>
+
+<div class="navbar">
+    Barra de navegación
+</div>
+
+<div class="sidebar">
+    <p>Índice</p>
+    <ul>
+        <li>Sección 1</li>
+        <li>Sección 2</li>
+        <li>Sección 3</li>
+    </ul>
+</div>
+
+<div class="right">
+    <iframe src="https://www.youtube.com/embed/E0ozmU9cJDg" 
+            frameborder="0" 
+            allowfullscreen>
+    </iframe>
+</div>
+
+<div class="content">
+    <h2>Tabla (zona scroll)</h2>
+    <table>
+        <tr>
+            <th>Banda</th>
+            <th>Álbum</th>
+            <th>Año</th>
+        </tr>
+        <script>
+            for(let i=0;i<50;i++){
+                document.write(`
+                    <tr>
+                        <td>Banda ${i}</td>
+                        <td>Álbum ${i}</td>
+                        <td>19${80+i}</td>
+                    </tr>
+                `)
+            }
+        </script>
+    </table>
+</div>
+
+</body>
+</html> 

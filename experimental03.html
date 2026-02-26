@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Layout Grid Puro</title>
+
+<style>
+:root {
+    --top-height: 80px;
+    --sidebar-width: 220px;
+    --right-width: 350px;
+}
+</style>
+</head>
+<body>
+
+<div class="logo">LOGO</div>
+
+<div class="navbar">
+    Barra de navegación
+</div>
+
+<div class="sidebar">
+    <p>Índice</p>
+    <ul>
+        <li>Sección 1</li>
+        <li>Sección 2</li>
+        <li>Sección 3</li>
+    </ul>
+</div>
+
+<div class="right">
+    <iframe src="https://www.youtube.com/embed/E0ozmU9cJDg" 
+            frameborder="0" 
+            allowfullscreen>
+    </iframe>
+</div>
+
+<div class="content">
+    <h2>Tabla (zona scroll)</h2>
+    <table>
+        <tr>
+            <th>Banda</th>
+            <th>Álbum</th>
+            <th>Año</th>
+        </tr>
+        <script>
+            for(let i=0;i<50;i++){
+                document.write(`
+                    <tr>
+                        <td>Banda ${i}</td>
+                        <td>Álbum ${i}</td>
+                        <td>19${80+i}</td>
+                    </tr>
+                `)
+            }
+        </script>
+    </table>
+</div>
+
+</body>
+</html>
