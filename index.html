@@ -4,43 +4,12 @@
         <!-- <script type="text/javascript" src="jajascript/_1.js"></script> -->
         <link rel="icon" type="image/jpg" href="iconos/Icono_1.jpg"/>
         <link rel="stylesheet" type="text/css" href="css/base.css" class="liiink"/>
+
+        <link rel="stylesheet" href="css\sortable-theme-finder.css" />
+        <script src="sortable-0.8.0\sortable-0.8.0\js\sortable.min.js"></script>
         <title>The Music Bunker</title>
-
-        <style>
-            /* RESPONSIVE */
-@media (max-width: 1000px) {
-    body {
-        grid-template-columns: var(--sidebar-width) 1fr;
-        grid-template-areas:
-            "logo navbar"
-            "sidebar content";
-    }
-
-    .right {
-        display: none;
-    }
-}
-
-@media (max-width: 700px) {
-    body {
-        grid-template-columns: 1fr;
-        grid-template-rows: var(--top-height) auto 1fr;
-        grid-template-areas:
-            "logo"
-            "navbar"
-            "content";
-    }
-
-    .sidebar {
-        display: none;
-    }
-}
-        </style>
     </head> 
     <body>
-
-    </body>
-</html>
 
 <!-- layout de la pag:
  - PRINCIPAL:
@@ -101,7 +70,7 @@
 
 <div class="content">
     <h2>Tabla (zona scroll)</h2>
-    <table>
+    <table class="sortable-theme-finder" data-sortable>
         <tr>
             <th>Banda</th>
             <th>Álbum</th>

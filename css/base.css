@@ -1,11 +1,38 @@
-:root {
+:root{
     --top-height: 80px;
     --sidebar-width: 220px;
     --right-width: 350px;
 }
 
+            /* RESPONSIVE */
+@media(max-width: 1000px){
+    body{
+        grid-template-columns: var(--sidebar-width) 1fr;
+        grid-template-areas:
+            "logo navbar"
+            "sidebar content";
+    }
+    .right{
+        display: none;
+    }
+}
+@media(max-width: 700px){
+    body{
+        grid-template-columns: 1fr;
+        grid-template-rows: var(--top-height) auto 1fr;
+        grid-template-areas:
+            "logo"
+            "navbar"
+            "content";
+    }
+
+    .sidebar{
+        display: none;
+    }
+}
+
 /* RESET */
-body {
+body{
     margin: 0;
     height: 100vh;
     display: grid;
@@ -17,8 +44,8 @@ body {
     font-family: Arial, sans-serif;
 }
 
-/* 🟥 LOGO */
-.logo {
+/* (RED) Logo */
+.logo{
     grid-area: logo;
     background: #b30000;
     color: white;
@@ -28,8 +55,8 @@ body {
     font-weight: bold;
 }
 
-/* 🟨 NAVBAR */
-.navbar {
+/* (UP YELLOW) Navbar */
+.navbar{
     grid-area: navbar;
     background: #f5c400;
     display: flex;
@@ -37,16 +64,16 @@ body {
     padding-left: 20px;
 }
 
-/* 🟨 SIDEBAR */
-.sidebar {
+/* (LEFT YELLOW) Sidebar */
+.sidebar{
     grid-area: sidebar;
     background: #f5c400;
     padding: 20px;
     overflow-y: auto;
 }
 
-/* 🟦 CONTENIDO (SCROLL) */
-.content {
+/* (BLUE) Main container */
+.content{
     grid-area: content;
     background: #3f51b5;
     color: white;
@@ -54,54 +81,26 @@ body {
     overflow-y: auto;   /* 🔥 SOLO ESTA PARTE HACE SCROLL */
 }
 
-/* 🟩 PANEL DERECHO */
-.right {
+/* (GREEN) Righth sec. */
+.right{
     grid-area: right;
     background: #28a745;
     padding: 10px;
 }
 
-.right iframe {
+.right iframe{
     width: 100%;
     height: 100%;
 }
 
-/* TABLA */
-table {
+/* -----------talbe (main container)-------------------- */
+table{
     width: 100%;
     border-collapse: collapse;
 }
 
-th, td {
+th, td{
     border: 1px solid white;
     padding: 8px;
 }
 
-/* RESPONSIVE */
-@media (max-width: 1000px) {
-    body {
-        grid-template-columns: var(--sidebar-width) 1fr;
-        grid-template-areas:
-            "logo navbar"
-            "sidebar content";
-    }
-
-    .right {
-        display: none;
-    }
-}
-
-@media (max-width: 700px) {
-    body {
-        grid-template-columns: 1fr;
-        grid-template-rows: var(--top-height) auto 1fr;
-        grid-template-areas:
-            "logo"
-            "navbar"
-            "content";
-    }
-
-    .sidebar {
-        display: none;
-    }
-}
