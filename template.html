@@ -1,0 +1,132 @@
+<html>
+    <head> 
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+        <!-- <script type="text/javascript" src="jajascript/_1.js"></script> -->
+        <link rel="icon" type="image/jpg" href="iconos/Icono_1.jpg"/>
+        <link rel="stylesheet" type="text/css" href="css/base.css" class="liiink"/>
+        <link rel="stylesheet" href="css/sortable-theme-finder.css" />
+        <script src="scripts/sort_table.js"></script>
+        <title>The Music Bunker</title>
+    </head> 
+    <body>
+
+<!-- layout de la pag:
+ - PRINCIPAL:
+    imagen+nombre, para los favoritos
+    tratar de no exceder las... 9?
+ - PERRADA:
+    no imágenes, lista plana de banda+album
+ - CLASICA:
+    Para instrumentales / no formato de album convencional
+     
+ CÓMO ORGANIZAR LA PAG
+ - principal y perrada van en diferentes pags/pestanas
+ - Reciclar animaciones de RecordCollection
+ 
+ INFORMACIÓN GENERAL DE CADA ALBUM:
+    - banda
+    - n. album
+    - anno
+    - género
+    - país
+    - (si aplica) imagen
+
+ LAYOUT PERRADA:
+ <div class="parent">
+    <div class="mainBG"></div>
+    <div class="band">band</div>
+    <div class="album">album</div>
+    <div class="year">year</div>
+    <div class="country">country</div>
+    <div class="gen">gen</div>
+</div> 
+
+[band,album,year,country,genre(s),bg_color,txt_color,linkArchive,linkYT],
+ -->
+<body>
+
+<div class="logo">LOGO</div>
+
+<div class="navbar">
+    Barra de navegación
+</div>
+
+<div class="sidebar">
+    <p>Índice</p>
+    <ul>
+        <li>Sección 1</li>
+        <li>Sección 2</li>
+        <li>Sección 3</li>
+    </ul>
+</div>
+
+<div class="right">
+    <!-- <iframe src="https://www.youtube.com/embed/E0ozmU9cJDg" 
+            frameborder="0" 
+            allowfullscreen>
+    </iframe> -->
+</div>
+
+<div class="content">
+    <h2>Tabla (zona scroll)</h2>
+    <table class="sortable" aria-readonly="true" role="grid" >
+        
+    <caption>People, Ages, and Favorite Colors</caption>
+    <thead>
+        <tr>
+          <th class="num">Index</th>
+          <th aria-sort="ascending">Name</th>
+          <th class="num">Age</th>
+          <th class="no-sort">Code</th>
+          <th >Favorite Color</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+            <td>2</td>
+            <td>Hannah</td>
+            <td class="num">28</td>
+            <td>LQdBF</td>
+            <td >Blue</td>
+          </tr>
+          <tr>
+            <td>6</td>
+            <td>Cyan</td>
+            <td class="num">35</td>
+            <td>gskQw</td>
+            <td >Burgundy</td>
+          </tr>
+          <tr>
+            <td>3</td>
+            <td>Salim</td>
+            <td class="num">7</td>
+            <td>yqU5U</td>
+            <td >Green</td>
+          </tr>
+          <tr>
+            <td>4</td>
+            <td>Greg</td>
+            <td class="num">45</td>
+            <td>2xdOH</td>
+            <td >Orange</td>
+          </tr>
+          <tr>
+            <td>1</td>
+            <td>Myk</td>
+            <td class="num">33</td>
+            <td>8piQT</td>
+            <td >Purple</td>
+          </tr>
+          <tr>
+            <td>5</td>
+            <td>Caitlin</td>
+            <td class="num">21</td>
+            <td>jP9sa</td>
+            <td >Red</td>
+          </tr>
+      </tbody>
+  </table>
+</div>
+
+</body>
+</html> 

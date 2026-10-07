@@ -48,8 +48,17 @@ fullInfoArray=[
     ["", "", 19, "", "", "-", "-", "-", "-"],
 ]
 
-opt=int(input("option:\n   1) single item\n   2) prewrited array [8xN]"))
-if opt=1:
-    a =0
+def trans(array):
+    with open('content.txt', 'a') as f:
+        a="      <tr>"+"        <th>{array[0]}</th>"+f"        <th>{array[1]}</th>"+f"        <th class=\"num\">{array[3]}</th>"+f"        <th>{array[4]}</th>"+f"        <th>{array[5]}</th>"+"      </tr>"
+        f.write(a)  
+
+opt=int(input("option:\n   1) single item\n   2) prewrited array [8xN]\n    3) Read from file"))
+if opt==1:
+    a=0
+elif opt==2:
+    a=1
 else:
+    a=3
     
+a=input("Programaterminado con exitación")
