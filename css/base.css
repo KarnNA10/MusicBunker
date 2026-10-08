@@ -2,6 +2,14 @@
     --top-height: 80px;
     --sidebar-width: 220px;
     --right-width: 350px;
+
+    --main-bg-color: #000;
+    --main-text-color: #fff;
+
+    --second-bg-color: #414141;
+    --second-text-color: #000;
+  
+    --thrd-bg-color: crimson;
 }
 
             /* RESPONSIVE */
@@ -47,7 +55,7 @@ body{
 /* (RED) Logo */
 .logo{
     grid-area: logo;
-    background: #b30000;
+    background: var(--thrd-bg-color);
     color: white;
     display: flex;
     align-items: center;
@@ -58,16 +66,17 @@ body{
 /* (UP YELLOW) Navbar */
 .navbar{
     grid-area: navbar;
-    background: #f5c400;
+    background: var(--second-bg-color);
     display: flex;
     align-items: center;
     padding-left: 20px;
 }
 
 /* (LEFT YELLOW) Sidebar */
+
 .sidebar{
     grid-area: sidebar;
-    background: #f5c400;
+    background: #414141;
     padding: 20px;
     overflow-y: auto;
 }
@@ -75,8 +84,8 @@ body{
 /* (BLUE) Main container */
 .content{
     grid-area: content;
-    background: #3f51b5;
-    color: white;
+    background: var(--main-bg-color);
+    color: var(--main-text-color);
     padding: 20px;
     overflow-y: auto;   /* 🔥 SOLO ESTA PARTE HACE SCROLL */
 }
@@ -84,7 +93,7 @@ body{
 /* (GREEN) Righth sec. */
 .right{
     grid-area: right;
-    background: #28a745;
+    background: var(--thrd-bg-color);
     padding: 10px;
 }
 
@@ -97,6 +106,7 @@ body{
 table{
     width: 100%;
     border-collapse: collapse;
+    color: unset;
 }
 
 th, td{

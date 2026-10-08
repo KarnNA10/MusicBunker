@@ -6,9 +6,10 @@
         <link rel="stylesheet" type="text/css" href="css/base.css" class="liiink"/>
         <link rel="stylesheet" href="css/sortable-theme-finder.css" />
         <script src="scripts/sort_table.js"></script>
+        <script src="scripts/database.js"></script>
         <title>The Music Bunker</title>
     </head> 
-    <body>
+    <body onload="main()">
 
 <!-- layout de la pag:
  - PRINCIPAL:
@@ -69,62 +70,12 @@
 
 <div class="content">
     <h2>Tabla (zona scroll)</h2>
-    <table class="sortable" aria-readonly="true" role="grid" >
+    <table class="SortableTable" aria-readonly="true" role="grid" >
         
     <thead>
-      <tr>
-        <th>Artist</th>
-        <th aria-sort="ascending">Album</th>
-        <th class="num">Year</th>
-        <th>Country</th>
-        <th>Genres</th>
-        <!-- <th>fdsfsfs</th> -->
-      </tr>
+      <tr id="tableHead"></tr>
     </thead>
-    <tbody class="Albumes" onload="main()">
-      <tr>
-        <td>2</td>
-        <td>Hannah</td>
-        <td class="num">28</td>
-        <td>LQdBF</td>
-        <td>Blue</td>
-      </tr>
-      <tr>
-        <td>6</td>
-        <td>Cyan</td>
-        <td class="num">35</td>
-        <td>gskQw</td>
-        <td >Burgundy</td>
-      </tr>
-      <tr>
-        <td>3</td>
-        <td>Salim</td>
-        <td class="num">7</td>
-        <td>yqU5U</td>
-        <td >Green</td>
-      </tr>
-      <tr>
-        <td>4</td>
-        <td>Greg</td>
-        <td class="num">45</td>
-        <td>2xdOH</td>
-        <td >Orange</td>
-      </tr>
-      <tr>
-        <td>1</td>
-        <td>Myk</td>
-        <td class="num">33</td>
-        <td>8piQT</td>
-        <td >Purple</td>
-      </tr>
-      <tr>
-        <td>5</td>
-        <td>Caitlin</td>
-        <td class="num">21</td>
-        <td>jP9sa</td>
-        <td >Red</td>
-      </tr>
-
+    <tbody id="Albumes">
     </tbody>
   </table>
 </div>
