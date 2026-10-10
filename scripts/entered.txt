@@ -1,0 +1,180 @@
+3	To The Power Of Three	1	1	1	1	2	2	140
+Akira Yamaoka	Silent Hill (Original Soundtrack)	1	2	2	2	1	2	156
+Akira Yamaoka	Silent Hill 2 (Original Soundtrack)	1	2	2	1	1	2	157
+Akira Yamaoka	Silent Hill 3 (Original Soundtrack)	1	2	2	1	1	2	158
+Akira Yamaoka	Silent Hill 4 (Original Soundtrack)	1	2	2	1	1	2	159
+Alan Parsons project	Eye in the sky	1	1	1	1	1	2	37
+Alan Parsons project	I Robot	1	1	1	1	1	1	15
+Alan Parsons project	Tales of Mystery and Imagination	1	1	1	1	2	2	148
+Alexander Borodin	Prince Igor	1	2	2	2	2	2	3
+Alice Coltrane	World Galaxy	2	2	2	1	2	2	168
+Almendra	Almendra	2	2	2	1	2	2	149
+Anderson/Stolt	Invention of Knowledge	1	2	2	1	1	2	73
+Aphex Twin	Selected Ambient Works 85-92	2	2	2	2	2	2	147
+Aphrodite's Child	666	1	1	1	1	1	2	32
+Arturo Márquez	-	1	1	1	1	1	2	8
+Atomic Rooster	Death Walks Behind You	1	1	1	1	1	2	121
+Bach	Organ Music (Walter Kraft)	2	2	2	2	2	1	134
+Banco del Mutuo Soccorso	Banco del Mutuo Soccorso	1	1	1	1	1	2	111
+Bee Gees	Greatest Hits	1	1	1	1	1	2	66
+Burt Bacharach	Hit Maker!	1	2	2	1	2	2	106
+California Transit Authority	Full Circle	1	1	1	1	1	2	155
+Camel	A Live Record	1	1	1	1	1	2	118
+Camel	Breathless	2	2	2	1	2	2	177
+Camel	Camel	1	1	1	1	1	2	150
+Camel	Mirage	1	1	1	1	1	2	67
+Camel	Moonmadness	1	1	1	1	1	2	58
+Camel	Nude	1	1	1	2	1	1	92
+Camel	The Snow Goose	1	2	2	1	2	2	68
+Caravan	In the land of gray and pink	1	1	1	1	1	2	57
+Carl Orff 	Carmina Burana	1	1	1	2	1	2	7
+Charles Mingus	Mingus Ah Um	1	1	1	1	1	2	127
+Chet Baker	 Let's Get Lost	1	1	1	2	1	2	33
+Chicago	Chicago II	1	2	2	1	2	2	142
+Chris Botti	In Boston	1	1	1	2	2	2	40
+Chris Squire	Fish out of water	1	1	1	1	1	2	34
+Dave Brubeck Quartet	Time Out	1	1	1	1	1	1	130
+Deep Purple	Machine Head	1	1	1	1	2	2	153
+Emerson, Lake & Palmer	Black Moon	1	2	2	1	2	2	39
+Emerson, Lake & Palmer	Brain Salad Surgery	1	1	1	1	1	1	16
+Emerson, Lake & Palmer	Emerson, Lake & Palmer	1	1	1	1	1	2	49
+Emerson, Lake & Palmer	In Concert	1	2	2	2	1	1	91
+Emerson, Lake & Palmer	Love Beach	1	2	2	1	1	2	110
+Emerson, Lake & Palmer	Pictures at an exhibition	1	1	1	1	1	1	35
+Emerson, Lake & Palmer	Tarkus	1	1	1	1	1	1	10
+Emerson, Lake & Palmer	Trilogy	1	1	1	1	1	1	22
+Emerson, Lake & Palmer	Welcome back my friends to the show that never ends	1	1	1	1	1	2	56
+Emerson, Lake & Palmer	Works Vol. 1	1	1	1	1	1	2	62
+Emerson, Lake & Palmer	Works Vol. 2	1	1	1	1	1	2	74
+Emerson, Lake & Powell	Emerson Lake & Powell	1	1	1	1	1	1	112
+Esperanza Spalding 	Emily’s D+Evolution	2	2	2	1	2	2	170
+Esperanza Spalding 	Junjo	2	2	2	1	2	2	169
+Focus	Moving Waves	1	1	1	1	1	2	82
+Frank Zappa	Absolutely free	1	2	2	1	1	2	36
+Genesis	A Trick Of The Tail	1	1	1	1	1	2	29
+Genesis	And Then There Were Three	1	1	1	1	1	1	122
+Genesis	Foxtrot	1	1	1	1	1	2	20
+Genesis	Nursery Cryme	1	1	1	1	1	2	97
+Genesis	Selling England By The Pound	1	1	1	1	1	2	51
+Genesis	The Lamb Lies Down On Broadway	1	1	1	1	1	2	24
+Genesis	Trespass	1	1	1	1	1	2	60
+Genesis	Wind & Wuthering	1	1	1	1	1	2	144
+Gentle Giant	Gentle Giant	2	2	2	1	2	2	166
+Goliath	Goliath	2	2	2	2	1	2	180
+Greenslade	Greenslade	1	1	1	1	1	2	131
+Gustav Holst	The planets	1	1	1	2	1	2	4
+Igor Stravinsky	Petrouchka	1	1	1	2	1	2	2
+Herbie Hancock	Head Hunters	1	1	1	1	1	2	109
+Hiromi	Another Mind	2	2	2	1	2	2	167
+Hiromi	SonicWonderland	1	1	1	1	1	2	129
+The Horace Silver Quintet	Horace-Scope	1	1	1	1	1	2	161
+Jerry Herman	Hello, Dolly!	1	1	1	1	1	1	124
+Jethro Tull	Thick as a brick	1	1	1	1	1	2	26
+Jimi Hendrix Experience	Are You Experienced	1	1	1	1	1	2	64
+Jimmy Smith	The Sermon!	1	1	1	1	1	2	83
+John Coltrane	My favorite things	1	1	1	1	1	2	6
+Kansas	Point of Know Return	1	1	1	1	1	1	135
+Keith Emerson	Changing States	1	1	1	1	1	2	117
+Keith Emerson	Emerson Plays Emerson	1	1	1	1	1	2	78
+Keith Emerson	Honky	1	1	1	1	1	2	72
+Keith Emerson	Inferno	1	1	1	1	1	2	70
+Keith Emerson	Live at BB Kings	2	2	2	1	2	2	172
+Keith Emerson	Nighthawks	1	1	1	1	1	1	126
+Keith Emerson	Off the Shelf	1	1	1	1	1	2	145
+Keith Emerson	The Christmas Album	1	1	1	2	1	2	123
+Keith Emerson Band	Featuring Marc Bonilla	1	1	1	1	1	2	90
+Keith Emerson Band	Three Fates Project	1	1	1	1	1	2	93
+Keith Emerson, Glenn Hughes, Marc Bonilla	Boys Club: Live From California	1	1	1	1	1	2	95
+Keith Emerson, Greg Lake	Live from Manticore Hall	2	2	2	1	2	2	165
+Keith Emerson Trio	Keith Emerson Trio	1	1	1	1	1	2	101
+King Crimson	In The Court Of The Crimson King	1	1	1	1	1	2	75
+King Crimson	Red	1	1	1	1	1	2	59
+Láquesis	Láquesis	2	2	2	1	2	2	179
+Led Zeppelin	Led Zeppelin	1	1	1	1	2	2	152
+Liquid Tension Experiment	Liquid Tension Experiment 2	2	2	2	2	2	2	146
+Locanda Delle Fate	Forse Le Lucciole Non Si Amano Piu	1	1	1	1	1	2	107
+Luis Alberto Spinetta	A 18' del Sol	1	1	1	1	1	2	125
+Magma	Kobaia	1	1	1	1	1	2	162
+Magma	Mekanik Destruktiw Kommandoh	1	1	1	1	1	2	119
+Manhattan Transfer	The Manhattan Transfer	1	1	1	1	1	2	100
+Marc Bonilla	American Matador	1	1	1	1	1	2	141
+Marc Bonilla	Celluloid Debris	1	1	1	2	1	2	154
+Marc Bonilla	EE Ticket	1	1	1	1	1	2	139
+Miles Davis	 Kind Of Blue	1	1	1	1	1	2	5
+Moody Blues	Days Of Future Passed	1	1	1	1	1	2	76
+Moody Blues	In Search Of The Lost Chord	1	1	1	2	2	1	133
+Mussorgsky, Ravel	Pictures at an Exhibition	1	1	1	2	1	2	38
+Nektar	A Tab in the Ocean	1	1	1	1	1	2	65
+Nektar	Recycled	2	2	2	1	2	2	164
+Nektar	Remember the future	1	1	1	1	1	2	52
+The Nice	Ars Longa Vita Brevis	1	1	1	1	1	2	114
+The Nice	Elegy	1	1	1	1	1	2	105
+The Nice	Five Bridges	1	1	1	1	1	2	81
+The Nice	Keith Emerson With The Nice	2	2	2	2	2	1	128
+The Nice	Live At The Fillmore East December 1969	1	1	1	1	1	2	120
+The Nice	Nice	1	1	1	1	1	2	96
+The Nice	The thoughts of Emerlist Davjack	1	1	1	1	1	2	85
+Nightwish	Wishmaster	2	2	2	1	2	2	171
+Opeth	Blackwater Park	1	1	1	1	2	2	116
+Oscar Peterson	Plays Count Basie	2	2	2	1	2	2	174
+Pain of Salvation	Remedy Lane	2	2	2	1	2	2	163
+Premiata Forneria Marconi	Chocolate Kings	1	2	2	1	2	2	94
+Premiata Forneria Marconi	L'isola di niente	1	2	2	1	1	2	88
+Premiata Forneria Marconi	Per un Amico	1	1	1	1	1	2	99
+Premiata Forneria Marconi	Photos Of Ghosts	1	1	1	1	1	2	77
+Premiata Forneria Marconi	The World Became the World	1	1	1	1	1	2	86
+Pink Floyd	Atom heart mother	1	1	1	1	1	2	21
+Pink Floyd	Dark side of the moon	1	1	1	1	2	2	41
+Pink Floyd	Wish you were here	1	1	1	1	1	2	19
+Prince	1999	1	2	2	1	1	2	25
+Prince	Purple Rain	1	1	1	1	1	2	23
+Prince	Sign O' The Times	1	2	2	1	1	2	31
+Refugee 	Refugee 	1	1	1	1	1	2	113
+Renaissance	A Song for All Seasons	2	1	1	1	1	2	138
+Renaissance	Ashes are burning	1	1	1	1	1	2	98
+Return to Forever	No Mystery	2	2	2	1	2	2	176
+Return to Forever	Romantic Warrior	1	1	1	1	1	2	71
+Return to Forever	Where Have I Known You Before	1	1	1	1	1	2	108
+Rick Wakeman	Journey to the center of the Earth	1	2	2	1	2	2	54
+Rick Wakeman	The myths and legends of King Arthur and the knights of the round table	1	1	1	1	1	2	46
+Rick Wakeman	The six wives of Henry VIII	1	1	1	1	1	2	44
+Rick Wakeman	A Gallery of Imagination	2	2	2	1	2	2	87
+Rimsky-Korsakov	Scheherazade, Polovtsian Dances (reference recording: Sir Thomas Beecham)	1	2	2	2	2	2	14
+Rush	2112	1	1	1	1	1	2	50
+Rush	Caress of Steel	1	1	1	1	1	2	84
+Rush	Fly by night	1	1	1	1	1	2	43
+Rush	Hemispheres	1	1	1	1	1	2	69
+Rush	Moving Pictures	1	1	1	1	1	2	103
+Rush	Rush	1	1	1	1	1	2	63
+Santana	Abraxas	1	1	1	1	1	2	89
+Serú Girán	Serú Girán	1	1	1	1	1	2	102
+Squackett	A life within a day	1	1	1	1	1	2	55
+Steely Dan	Aja	1	1	1	1	1	2	42
+Steely Dan	Can't Buy A Thrill	1	1	1	1	1	2	104
+Steve Hackett	Please Don't Touch	1	1	1	1	1	2	137
+Steve Hackett	Spectral Mornings	1	1	1	1	1	2	143
+Steve Hackett	Voyage of the Acolyte	1	1	1	1	1	2	45
+Steve Howe	Beginnings	1	1	1	1	1	2	48
+Strawbs	Hero And Heroine	1	1	1	1	1	2	80
+Tchaikovsky	The Nutcracker Suite, Op 71a	1	1	1	2	1	2	1
+Tea Party	The Edges od Twilight	1	1	1	1	1	2	160
+Terreno Baldio	Terreno Baldio	2	2	2	1	2	2	178
+Thelonious Monk	Brilliant Corners	1	1	1	1	2	2	132
+Thelonious Monk	Monk's Dream	1	1	1	1	2	2	151
+UK	Danger money	1	1	1	1	1	2	53
+The Wathch 	Planet Earth?	2	2	2	1	2	2	175
+Weather Report	Heavy Weather	1	1	1	1	1	2	79
+Wendy Carlos	Digital Moonscapes	2	2	2	2	2	1	136
+Wendy Carlos	Switched-on Bach	1	1	1	2	2	1	115
+Wishbone Ash	Argus	1	1	1	1	1	2	61
+Yes	Close to the Edge	1	1	1	1	1	1	9
+Yes	Drama	1	2	2	2	2	2	47
+Yes	Fragile	1	1	1	1	1	2	11
+Yes	Going for the One	1	1	1	1	1	1	17
+Yes	Relayer	1	1	1	1	1	2	13
+Yes	Tales from Topographic Oceans	1	1	1	1	1	2	12
+Yes	The Yes Album	1	1	1	1	1	2	18
+Yes	Time and a Word	1	1	1	1	1	2	30
+Yes	Yes	1	1	1	1	1	2	28
+Yes	Yessongs	1	1	1	1	1	1	27
+Yutaka Minobe	Rule of Rose	2	2	2	1	2	2	173
