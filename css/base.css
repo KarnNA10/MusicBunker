@@ -3,13 +3,13 @@
     --sidebar-width: 220px;
     --right-width: 350px;
 
-    --main-bg-color: #000;
+    --main-bg-color: #00000078;
     --main-text-color: #fff;
 
-    --second-bg-color: #414141;
+    --second-bg-color: #41414178;
     --second-text-color: #000;
   
-    --thrd-bg-color: crimson;
+    --thrd-bg-color: #dc143c78;
 }
 
             /* RESPONSIVE */
@@ -37,6 +37,12 @@
     .sidebar{
         display: none;
     }
+}
+
+html {
+	background-image: url(img/kxk1euge9c1h1.gif);
+	background-size: contain;
+	background-repeat: no-repeat;
 }
 
 /* RESET */
@@ -76,7 +82,7 @@ body{
 
 .sidebar{
     grid-area: sidebar;
-    background: #414141;
+    /* background: #414141; */
     padding: 20px;
     overflow-y: auto;
 }

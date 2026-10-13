@@ -5,82 +5,15 @@
         <link rel="icon" type="image/jpg" href="iconos/Icono_1.jpg"/>
         <link rel="stylesheet" type="text/css" href="css/base.css" class="liiink"/>
         <link rel="stylesheet" href="css/sortable-theme-finder.css" />
-        <script src="scripts/sort_table.js"></script>
+        <!-- <script src="scripts/sort_table.js"></script> -->
+        <script src="scripts/loadLayout.js"></script>
         <script src="scripts/database.js"></script>
+        <script src="scripts/loadIndex.js"></script>
         <title>The Music Bunker</title>
     </head> 
-    <body onload="main()">
+    <body onload="loadIndex()">
 
-<!-- layout de la pag:
- - PRINCIPAL:
-    imagen+nombre, para los favoritos
-    tratar de no exceder las... 9?
- - PERRADA:
-    no imágenes, lista plana de banda+album
- - CLASICA:
-    Para instrumentales / no formato de album convencional
-     
- CÓMO ORGANIZAR LA PAG
- - principal y perrada van en diferentes pags/pestanas
- - Reciclar animaciones de RecordCollection
- 
- INFORMACIÓN GENERAL DE CADA ALBUM:
-    - banda
-    - n. album
-    - anno
-    - género
-    - país
-    - (si aplica) imagen
-
- LAYOUT PERRADA:
- <div class="parent">
-    <div class="mainBG"></div>
-    <div class="band">band</div>
-    <div class="album">album</div>
-    <div class="year">year</div>
-    <div class="country">country</div>
-    <div class="gen">gen</div>
-</div> 
-
-[band,album,year,country,genre(s),bg_color,txt_color,linkArchive,linkYT],
- -->
-<body>
-
-<div class="logo">LOGO</div>
-
-<div class="navbar">
-    <!-- Barra de navegación -->
-     <!-- <marquee>Soy capitán clark y estos son mis backrooms. Capitan clark, voy a asesinarte, oye clarkin, soy tu pero acá bien backroom. soy capitan mantente en personaje. soy eslenderman y estos son mis bosques. eslenderman voy a asesinarte. Soy doctor house y este es mi caso . soy doctor house y voy a curarte. soy doctor house toma tus pastillas</marquee> -->
-</div>
-
-<div class="sidebar">
-    <p>Índice</p>
-    <ul>
-        <li>Sección 1</li>
-        <li>Sección 2</li>
-        <li>Sección 3</li>
-    </ul>
-</div>
-
-<div class="right">
-    <!-- <iframe src="https://www.youtube.com/embed/E0ozmU9cJDg" 
-            frameborder="0" 
-            allowfullscreen>
-    </iframe> -->
-    <iframe id="iframe_a" name="iframe_a" src="" frameborder="0" allowfullscreen></iframe>
-</div>
-
-<div class="content">
-    <!-- <h2>Tabla (zona scroll)</h2> -->
-    <table class="SortableTable" aria-readonly="true" role="grid" >
-        
-    <thead>
-      <tr id="tableHead"></tr>
-    </thead>
-    <tbody id="Albumes">
-    </tbody>
-  </table>
-</div>
+        <!-- El resto del código? me lo comí (ahora carga con LoadLayout y loadIndex) -->
 
 </body>
 </html> 
